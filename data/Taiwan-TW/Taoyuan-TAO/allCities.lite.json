@@ -1,16 +1,6 @@
 [
    {
-      "name": "Daxi",
-      "countryCode": "TW",
-      "stateCode": "TAO"
-   },
-   {
       "name": "Taoyuan",
-      "countryCode": "TW",
-      "stateCode": "TAO"
-   },
-   {
-      "name": "Taoyuan City",
       "countryCode": "TW",
       "stateCode": "TAO"
    }

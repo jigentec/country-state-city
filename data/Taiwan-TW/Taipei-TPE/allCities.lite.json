@@ -1,21 +1,6 @@
 [
    {
-      "name": "Banqiao",
-      "countryCode": "TW",
-      "stateCode": "TPE"
-   },
-   {
-      "name": "Jiufen",
-      "countryCode": "TW",
-      "stateCode": "TPE"
-   },
-   {
       "name": "Taipei",
-      "countryCode": "TW",
-      "stateCode": "TPE"
-   },
-   {
-      "name": "Taipei City",
       "countryCode": "TW",
       "stateCode": "TPE"
    }
