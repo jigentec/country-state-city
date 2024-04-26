@@ -5,22 +5,22 @@
       "countryCode": "TW"
    },
    {
-      "name": "Chiayi",
+      "name": "Chiayi City",
       "isoCode": "CYI",
       "countryCode": "TW"
    },
    {
-      "name": "Chiayi",
+      "name": "Chiayi County",
       "isoCode": "CYQ",
       "countryCode": "TW"
    },
    {
-      "name": "Hsinchu",
+      "name": "Hsinchu County",
       "isoCode": "HSQ",
       "countryCode": "TW"
    },
    {
-      "name": "Hsinchu",
+      "name": "Hsinchu City",
       "isoCode": "HSZ",
       "countryCode": "TW"
    },
@@ -42,6 +42,11 @@
    {
       "name": "Kaohsiung",
       "isoCode": "KHH",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Keelung",
+      "isoCode": "KEE",
       "countryCode": "TW"
    },
    {
