@@ -1,7 +1,7 @@
 [
    {
       "name": "Central and Western District",
-      "isoCode": "HCW",
+      "stateCode": "HCW",
       "countryCode": "HK",
       "latitude": "22.28666000",
       "longitude": "114.15497000"

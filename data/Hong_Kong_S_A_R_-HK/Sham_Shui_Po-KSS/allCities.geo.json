@@ -1,7 +1,7 @@
 [
    {
       "name": "Sham Shui Po",
-      "isoCode": "KSS",
+      "stateCode": "KSS",
       "countryCode": "HK",
       "latitude": "22.33074000",
       "longitude": "114.16220000"

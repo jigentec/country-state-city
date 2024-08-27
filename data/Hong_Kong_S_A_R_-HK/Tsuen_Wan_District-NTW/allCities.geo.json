@@ -1,7 +1,7 @@
 [
    {
       "name": "Tsuen Wan District",
-      "isoCode": "NTW",
+      "stateCode": "NTW",
       "countryCode": "HK",
       "latitude": "22.36281000",
       "longitude": "114.12907000"

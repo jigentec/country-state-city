@@ -1,7 +1,7 @@
 [
    {
       "name": "Yuen Long District",
-      "isoCode": "NYL",
+      "stateCode": "NYL",
       "countryCode": "HK",
       "latitude": "22.44559000",
       "longitude": "114.02218000"

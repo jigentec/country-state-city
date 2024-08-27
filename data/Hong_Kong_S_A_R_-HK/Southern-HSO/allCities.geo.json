@@ -1,7 +1,7 @@
 [
    {
       "name": "Southern",
-      "isoCode": "HSO",
+      "stateCode": "HSO",
       "countryCode": "HK",
       "latitude": "22.24725000",
       "longitude": "114.15884000"

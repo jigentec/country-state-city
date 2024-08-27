@@ -1,7 +1,7 @@
 [
    {
       "name": "Wan Chai",
-      "isoCode": "HWC",
+      "stateCode": "HWC",
       "countryCode": "HK",
       "latitude": "22.27968000",
       "longitude": "114.17168000"
